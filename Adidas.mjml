@@ -92,10 +92,59 @@
             </mj-column>
         </mj-section>
 
-        <mj-section background-color="#fff" padding="0" font-family="Arial">
-            <mj-column width="640px" padding="40px 35px" border-bottom="1px solid #000">
+        <mj-section border-bottom="1px solid #000" background-color="#fff" padding="0" font-family="Arial">
+            <mj-column padding="40px 20px" width="640px">
                 <mj-image padding="0" src="assets/footerBanner.png" alt="BannerFooter" />
             </mj-column>
         </mj-section>
+        
+        <mj-section border-bottom="1px solid #000" background-color="#fff" padding="0" font-family="Arial">
+            <mj-column padding="40px 20px" width="640px">
+                <mj-raw>
+                    <table padding="0" width="100%" style="margin: 0 auto; background: #fff;">
+                        <tr>
+                            <td>
+                                <table padding="0" style="background: #fff; width: 100%;">
+                                    <tr>
+                                        <td>
+                                            <a href=""><img src="assets/ig-socials.jpg"/></a>
+                                        </td>
+                                        <td>
+                                            <a href=""><img src="assets/tt-socials.jpg"/></a>
+                                        </td>
+                                        <td>
+                                            <a href=""><img src="assets/yt-socials.jpg"/></a>
+                                        </td>
+                                        <td>
+                                            <a href=""><img src="assets/tw-socials.jpg"/></a>
+                                        </td>
+                                        <td>
+                                            <a href=""><img src="assets/pt-socials.jpg"/></a>
+                                        </td>
+                                    </tr>
+                                </table>
+                            </td>
+                        </tr>
+                    </table>
+                </mj-raw>
+            </mj-column>
+        </mj-section>
+
+        <mj-section background-color="#fff" padding="0" font-family="Arial">
+            <mj-column padding="40px 20px 13px" width="640px">
+                <mj-text align="left" padding="0">
+                    <a href="" style="font-size: 12px; display: inline-block; padding: 0 15px 0 0; color: #000; font-family: Arial;">Informacje o polityce prywatności</a><a href="" style="font-size: 12px; display: inline-block; padding: 0 15px 0 0; color: #000; font-family: Arial;">Wsparcie</a><a href="" style="font-size: 12px; display: inline-block; padding: 0 15px 0 0; color: #000; font-family: Arial;">Moje konto</a><a href="" style="font-size: 12px; display: inline-block; padding: 0 15px 0 0; color: #000; font-family: Arial;">Anulowanie subskrypcji</a><a href="" style="font-size: 12px; display: inline-block; padding: 0 15px 0 0; color: #000; font-family: Arial;">adidas.pl</a>
+                </mj-text>
+            </mj-column>
+        </mj-section>
+
+        <mj-section background-color="#fff" padding="0" font-family="Arial">
+            <mj-column padding="0 20px 13px" width="640px">
+                <mj-text font-size="14px" color="#666" align="left" padding="0">
+                    © 2023 Administratorzy danych firmy adidas: adidas AG, adidas Business Services GmbH, adidas Poland Sp. z o.o.
+                </mj-text>
+            </mj-column>
+        </mj-section>
+
     </mj-body>
 </mjml>
