@@ -1,0 +1,101 @@
+<mjml>
+    <mj-head>
+        <mj-style>
+            * {
+                box-sizing: border-box;
+            }
+        </mj-style>
+        <mj-style inline="inline">
+
+        </mj-style>
+    </mj-head>
+    <mj-body width="100%" background-color="#fff">
+        <mj-section background-color="#000" padding="0" font-family="Arial">
+            <mj-column width="640px">
+
+                <mj-section background-color="#000" padding="0">
+                    <mj-column padding="12px 20px">
+                        <mj-image padding="0" width="60px" src="assets/adidas-logo.png" alt="adidasLogo" />
+                    </mj-column>
+
+                    <mj-column padding="35px 15px 0 0">
+                        <mj-text color="#fff" padding="0" font-size="14px" font-family="Arial">
+                            <b>MĘSZCZYŹNI</b>
+                        </mj-text>
+                    </mj-column>
+                    <mj-column padding="35px 15px 0 0">
+                        <mj-text color="#fff" padding="0" font-size="14px" font-family="Arial">
+                            <b>KOBIETY</b>
+                        </mj-text>
+                    </mj-column>
+                    <mj-column padding="35px 0 0 0">
+                        <mj-text color="#fff" padding="0" font-size="14px" font-family="Arial">
+                            <b>DZIECI</b>
+                        </mj-text>
+                    </mj-column>
+                    <mj-column padding="35px 15px 0 0">
+                        <mj-text color="#fff" padding="0" font-size="14px" font-family="Arial">
+                            <b>SKLEPY</b>
+                        </mj-text>
+                    </mj-column>
+                    <mj-column padding="35px 15px 0 0">
+
+                    </mj-column>
+                </mj-section>
+
+                <mj-section background-color="#000" padding="0">
+                    <mj-column>
+                        <mj-image padding="0" src="./assets/fst-banner.gif" alt="bannerORIGINALS" />
+                    </mj-column>
+                </mj-section>
+
+                <mj-section background-color="#000" padding="0">
+                    <mj-column>
+                        <mj-text color="#fff" font-size="38px" padding="22px 80px 22px 27px" font-family="Arial">
+                           <b>TYSIĄCE HISTORII ORIGINALS</b>
+                        </mj-text>
+                        <mj-text color="#fff" padding="0 0 20px 27px" font-size="16px" font-family="Arial">
+                            Jaka jest Twoja?
+                        </mj-text>
+                        <mj-button href="https://www.adidas.pl/account-login" width="250px" inner-padding="0" align="left" padding="0 0 20px 27px" border="0" background-color="#fff" color="#000" font-family="Arial" font-size="13px" border-radius="0">
+                            <span style="display: inline-block; padding: 20px 30px 20px 10px; font-weight: bold;">ZOBACZ HISTORIE</span> 
+                            <mj-raw>
+                                <img src="assets/arrowRight.png" alt="arrowRight" style="width: 50px; padding: 2px 10px 0 0;" />
+                            </mj-raw>
+                        </mj-button>
+                    </mj-column>
+                </mj-section>
+
+                <mj-section background-color="#000" padding="0">
+                    <mj-column>
+                        <mj-image padding="0" src="./assets/sc-banner.gif" alt="bannerGAZELLE" />
+                    </mj-column>
+                </mj-section>
+
+                <mj-section background-color="#000" padding="0">
+                    <mj-column>
+                        <mj-text color="#fff" font-size="38px" padding="22px 80px 22px 27px" font-family="Arial">
+                           <b>GAZELLE ORIGINALS</b>
+                        </mj-text>
+                        <mj-text color="#fff" padding="0 0 20px 27px" font-size="16px" font-family="Arial">
+                            Odkryj swoją.
+                        </mj-text>
+                        <mj-button href="https://www.adidas.pl/account-login" width="200px" inner-padding="0" align="left" padding="0 0 55px 27px" border="0" background-color="#fff" color="#000" font-family="Arial" font-size="13px" border-radius="0">
+                            <span style="display: inline-block; padding: 20px 10px 20px 10px; font-weight: bold;">DO KOLEKCJI</span> 
+                            <mj-raw>
+                                <img src="assets/arrowRight.png" alt="arrowRight" style="width: 50px; padding: 2px 10px 0 0;" />
+                            </mj-raw>
+                        </mj-button>
+                    </mj-column>
+                </mj-section>
+
+            </mj-column>
+        </mj-section>
+
+        <mj-section background-color="#fff" padding="0" font-family="Arial">
+            <mj-column width="640px" padding="40px 35px" border-bottom="1px solid #000">
+                <mj-image padding="0" src="assets/footerBanner.png" alt="BannerFooter" />
+            </mj-column>
+        </mj-section>
+    </mj-body>
+</mjml>
