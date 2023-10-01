@@ -15,7 +15,7 @@
 
                 <mj-section background-color="#000" padding="0">
                     <mj-column padding="12px 20px">
-                        <mj-image padding="0" width="60px" src="assets/adidas-logo.png" alt="adidasLogo" />
+                        <mj-image padding="0" width="60px" src="https://uploads-ssl.webflow.com/649202106a5e5cdd7aa72693/64f4ad9cbfb0eee685bdfcc6_Logo-Adidas.png" alt="adidasLogo" />
                     </mj-column>
 
                     <mj-column padding="35px 15px 0 0">
@@ -45,7 +45,7 @@
 
                 <mj-section background-color="#000" padding="0">
                     <mj-column>
-                        <mj-image padding="0" src="./assets/fst-banner.gif" alt="bannerORIGINALS" />
+                        <mj-image padding="0" src="https://uploads-ssl.webflow.com/649202106a5e5cdd7aa72693/65198ce20243229efd0ae0c3_fst-banner.gif" alt="bannerORIGINALS" />
                     </mj-column>
                 </mj-section>
 
@@ -60,7 +60,7 @@
                         <mj-button href="https://www.adidas.pl/account-login" width="250px" inner-padding="0" align="left" padding="0 0 20px 27px" border="0" background-color="#fff" color="#000" font-family="Arial" font-size="13px" border-radius="0">
                             <span style="display: inline-block; padding: 20px 30px 20px 10px; font-weight: bold;">ZOBACZ HISTORIE</span> 
                             <mj-raw>
-                                <img src="assets/arrowRight.png" alt="arrowRight" style="width: 50px; padding: 2px 10px 0 0;" />
+                                <img src="https://uploads-ssl.webflow.com/649202106a5e5cdd7aa72693/65198d6ac444f603ddcce794_arrowRight.png" alt="arrowRight" style="display: inline-block; width: 50px; padding: 2px 10px 0 0;" />
                             </mj-raw>
                         </mj-button>
                     </mj-column>
@@ -68,7 +68,7 @@
 
                 <mj-section background-color="#000" padding="0">
                     <mj-column>
-                        <mj-image padding="0" src="./assets/sc-banner.gif" alt="bannerGAZELLE" />
+                        <mj-image padding="0" src="https://uploads-ssl.webflow.com/649202106a5e5cdd7aa72693/65198ce7e68ae7a65c1dcc03_sc-banner.gif" alt="bannerGAZELLE" />
                     </mj-column>
                 </mj-section>
 
@@ -83,7 +83,7 @@
                         <mj-button href="https://www.adidas.pl/account-login" width="200px" inner-padding="0" align="left" padding="0 0 55px 27px" border="0" background-color="#fff" color="#000" font-family="Arial" font-size="13px" border-radius="0">
                             <span style="display: inline-block; padding: 20px 10px 20px 10px; font-weight: bold;">DO KOLEKCJI</span> 
                             <mj-raw>
-                                <img src="assets/arrowRight.png" alt="arrowRight" style="width: 50px; padding: 2px 10px 0 0;" />
+                                <img src="https://uploads-ssl.webflow.com/649202106a5e5cdd7aa72693/65198d6ac444f603ddcce794_arrowRight.png" alt="arrowRight" style="display: inline-block; width: 50px; padding: 2px 10px 0 0;" />
                             </mj-raw>
                         </mj-button>
                     </mj-column>
@@ -94,7 +94,7 @@
 
         <mj-section border-bottom="1px solid #000" background-color="#fff" padding="0" font-family="Arial">
             <mj-column padding="40px 20px" width="640px">
-                <mj-image padding="0" src="assets/footerBanner.png" alt="BannerFooter" />
+                <mj-image padding="0" src="https://uploads-ssl.webflow.com/649202106a5e5cdd7aa72693/64f4ae9521d0652d09f03e4d_footerBanner-Adidas.png" alt="BannerFooter" />
             </mj-column>
         </mj-section>
         
@@ -107,19 +107,19 @@
                                 <table padding="0" style="background: #fff; width: 100%;">
                                     <tr>
                                         <td>
-                                            <a href=""><img src="assets/ig-socials.jpg"/></a>
+                                            <a href=""><img src="https://uploads-ssl.webflow.com/649202106a5e5cdd7aa72693/64f4aeb5bfb0eee685bf236e_instagram-Adidas.jpg"/></a>
                                         </td>
                                         <td>
-                                            <a href=""><img src="assets/tt-socials.jpg"/></a>
+                                            <a href=""><img src="https://uploads-ssl.webflow.com/649202106a5e5cdd7aa72693/64f4aeb9bfb0eee685bf2956_tiktok-Adidas.jpg"/></a>
                                         </td>
                                         <td>
-                                            <a href=""><img src="assets/yt-socials.jpg"/></a>
+                                            <a href=""><img src="https://uploads-ssl.webflow.com/649202106a5e5cdd7aa72693/64f4aeb9bfb0eee685bf2956_tiktok-Adidas.jpg"/></a>
                                         </td>
                                         <td>
-                                            <a href=""><img src="assets/tw-socials.jpg"/></a>
+                                            <a href=""><img src="https://uploads-ssl.webflow.com/649202106a5e5cdd7aa72693/64f4aebc4133b5962d75f0aa_twitter-Adidas.jpg"/></a>
                                         </td>
                                         <td>
-                                            <a href=""><img src="assets/pt-socials.jpg"/></a>
+                                            <a href=""><img src="https://uploads-ssl.webflow.com/649202106a5e5cdd7aa72693/64f4aeb789a029c41faa6f96_pinterest-Adidas.jpg"/></a>
                                         </td>
                                     </tr>
                                 </table>
